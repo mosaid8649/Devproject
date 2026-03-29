@@ -1,6 +1,5 @@
-practicing git
-new edit to git
-change 1
-change 2
-change 3
-testing change
+# app.txt
+print("Hello World")
+
+def add(a, b):
+    return a + b
